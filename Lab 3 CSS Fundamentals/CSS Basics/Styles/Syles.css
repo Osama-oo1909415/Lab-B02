@@ -1,0 +1,10 @@
+p {
+    background-color: brown;
+    color: azure;
+}
+#first-p{
+    background-color:blue ;
+    text-decoration: underline;
+    border-width: 10px;
+    border-style: doublett;
+}
